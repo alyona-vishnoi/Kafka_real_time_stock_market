@@ -5,8 +5,8 @@ The Stock Market Kafka Real-Time Data Engineering Project is designed to showcas
 - Programming Language - Python
 - Apache Kafka
 - Amazon Web Service (AWS)
--     S3 (Simple Storage Service)
--     Athena
--     Glue Crawler
--     Glue Catalog
--     EC2
+-   S3 (Simple Storage Service)
+-   Athena
+-   Glue Crawler
+-   Glue Catalog
+-   EC2
